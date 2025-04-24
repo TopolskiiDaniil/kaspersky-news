@@ -1,0 +1,14 @@
+.custom-checkbox .ant-checkbox-inner {
+  box-sizing: border-box;
+  height: 20px;
+  width:  20px;
+  border: 2px solid;
+  border-radius: 0;
+  background-color: inherit;
+}
+
+.custom-checkbox .ant-checkbox-inner::after {
+  width: 4px;
+  height: 8px;
+  left: 7px;
+}

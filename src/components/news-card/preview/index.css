@@ -1,0 +1,24 @@
+.news-card__header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.header-title {
+  margin: 0;
+  font-weight: 400; 
+  color: inherit; 
+}
+
+.button-info {
+	text-align: center;
+  display: block;
+  opacity: 1;
+  border: 2px solid;
+  background: inherit;
+  border-radius: 0;
+  box-sizing: border-box;
+  height: 20px;
+  width: 20px;
+  padding: 0;
+}

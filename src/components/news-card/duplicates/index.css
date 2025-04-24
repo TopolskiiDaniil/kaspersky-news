@@ -1,0 +1,13 @@
+.duplicates-container {
+	width: 100%;
+}
+
+.duplicates-container .duplicates-header-container {
+  justify-content: space-between;
+	width: 100%;
+}
+
+.view-duplicates-button {
+	width: 100%;
+	border: 1px solid;
+}
